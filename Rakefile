@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-FreeBee::Application.load_tasks
+FreebeeApi::Application.load_tasks

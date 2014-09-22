@@ -1,0 +1,7 @@
+
+<div>
+<h1>Sign Up</h1>
+<% for attribute in @customer.attributes.keys %>
+  <p><%= attribute.humanize %> <%= @customer.attributes[attribute].to_s %></p>
+<% end %>
+</div>

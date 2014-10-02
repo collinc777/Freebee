@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-FreebeeApi::Application.config.secret_token = '1d1074b23610fb23c179742d8e81508dcb1aa28f4407ee21b88e97c03eefa84dc276c77182e271df61bd78a5b91266a281054b143989a04eb3da38d328f491e0'
+FreebeeApi::Application.config.secret_token = 'a075e4daf9745e82b65a4440824547aaa35b143380f385bd1fec971084e11e49d74e562fe5bc4d5be1c38b6cef0760c6fbb5e1614040ba28b7a47ef6b7c203d3'

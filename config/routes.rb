@@ -1,15 +1,4 @@
 FreebeeApi::Application.routes.draw do
-
-  namespace :api do
-      namespace :v1 do
-        resources :customer
-        resources :project 
-      end
-    end
-
-  resources :project
-  resources :customer
-
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

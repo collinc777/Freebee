@@ -16,4 +16,3 @@
 //= require bootstrap.min
 //= require jquery.icheck.min
 //= require waypoints.min
-//= authenty
